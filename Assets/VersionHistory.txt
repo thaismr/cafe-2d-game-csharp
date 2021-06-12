@@ -1,0 +1,28 @@
+[]
+
+{}
+
+//// ORDER IN LAYER :
+
+		- 6 : cozinha
+		- 5 : jogador
+		- 4 : balcão
+		- 3 : clientes na mesa
+		- 2 : clientes a andar
+		- 1 : cenário
+
+
+
+0.0.3
+-----
+
+	-	
+
+
+
+0.0.2
+-----
+
+	-	Movimento das personagens 2D;
+
+	-	Seleção entre personagens.
